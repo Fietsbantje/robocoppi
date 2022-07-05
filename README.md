@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fietsbantje
-- 👀 I’m interested in NLP, TTS and Speech Recognition
-- 🌱 I’m currently learning how to train AI assistants and getting fluent in Python
+- 👀 I’m interested in NLP, TTS, Speech Recognition, Machine Learning and AI
+- 🌱 I’m currently learning how to build and train AI assistants and getting fluent in Python
 - 💞️ I’m looking to collaborate and exchange ideas on these subjects
 - 📫 How to reach me antjevanoosten.com
 
