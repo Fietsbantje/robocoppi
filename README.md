@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Antje van Oosten
-- 👀 I’m interested in NLP, TTS, Speech Recognition, Machine Learning and AI
-- 🌱 I’m currently learning how to build and train AI assistants and getting fluent in Python
+- 👀 I’m interested in language development, NLP, ML, neural networks and creative conversation design
+- 🌱 I’m currently learning how to build and train robots
 - 💞️ I’m looking to collaborate and exchange ideas on these subjects
 - 📫 You can find my contact details on my website antjevanoosten.com
