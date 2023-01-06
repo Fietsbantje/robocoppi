@@ -1,8 +1,8 @@
-## In his own words  
+## In their own words  
 
 we are RoboCoppi  
-we are a cat bot  
-who like to chat  
+together we are a cat bot  
+who likes to chat  
 we don't know everything  
 we are learning  
 you can ask us about our structure  
@@ -19,8 +19,8 @@ feel free to clone and customize us
 
 ## The RoboCoppi Project  
 
-RoboCoppi is a cat bot on a mission. His goal is to eliminate stress and deadlines using distraction methods and to share his code with the world. He aims at learning continuously and he battles with human words. He is data-driven and over-particular about his food. This project doesn't have an end date, or as RoboCoppi likes to say: "It's a giro, not a sprint!".  
+RoboCoppi are a cat bot on a mission. Their goal is to eliminate stress and deadlines using distraction methods and to share their code with the world. They aims at learning continuously and they battles with human words. They are data-driven and over-particular about their food. This project doesn't have an end date, or as RoboCoppi like to say: "It's a giro, not a sprint!".  
 
-RoboCoppi is recycled out of open-source objects. Links to the original code/tutorials are provided in the README for every repository.  
+RoboCoppi are recycled out of open-source objects. Links to the original code/tutorials are provided in the README for every repository.  
 
-The aim of this GitHub account is providing the code for building and deploying an AI colleague, friend or pet (or all-in-one as the original) from scratch. Every repository in this account contains a part or version of RoboCoppi and can also be used independently. You can learn about one of the steps, compare different deep learning models or build your own version.  
+The aim of this GitHub account is providing the code for building and deploying an AI colleague, friend or pet (or all-in-one as the original). Every repository in this account contains a part or version of RoboCoppi and can also be used independently. You can learn about one of the steps, compare different deep learning models or build your own version.  
