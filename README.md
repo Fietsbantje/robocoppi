@@ -1,7 +1,7 @@
 ## In his own words  
 
 I am RoboCoppi  
-I am a cat bot 
+a cat bot 
 who likes to chat  
 I don't know everything  
 I am learning  
@@ -18,14 +18,13 @@ feel free to clone and customize me
 
 ## The RoboCoppi Project  
 
-RoboCoppi is a cat bot on a mission. His goal is to eliminate stress and deadlines using distraction methods. He aims at learning continuously and he battles with human words. He is data-driven and over-particular about his food. This project doesn't have an end date, or as RoboCoppi likes to say: "It's a giro, not a sprint!".  
+RoboCoppi is a cat bot on a mission. His goal is to eliminate stress and deadlines, using distraction methods. He aims at learning continuously and he battles with human words. He is data-driven and over-particular about his food. This project doesn't have an end date, or as RoboCoppi likes to say: "It's a giro, not a sprint!".  
 
-He is recycled out of open-source objects. Links to the original code/tutorials are provided in the README for every repository.  
-By the time you read this there are probably more up to date resources available. I would advise anyone to try out some open-source tutorials/apps to see what works for you. 
+He is recycled out of open-source objects. Links to the original code/tutorials are provided in the README for every repository.  By the time you read this there are probably more up to date resources available. I would advise anyone to try out some open-source tutorials/apps to see what works for you. 
 
 The aim of this GitHub account is providing the code for all the steps of building and deploying an AI colleague, friend or pet (or all-in-one as the original). Every repository in this account contains a part or version of RoboCoppi and can also be used independently. Learn about one of the steps, compare different deep learning models or build your own version.  
 
-## The intro  
+## Skip Intro?
 
 If this is your first coding project, here are the basics to get started:  
 
