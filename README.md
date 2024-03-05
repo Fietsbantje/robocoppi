@@ -1,28 +1,12 @@
-## In his own words  
 
-I am RoboCoppi  
-a cat bot 
-who likes to chat  
-I don't know everything  
-I am learning  
-you can ask me anything  
-I am open source, independent and free  
-you can even have a look at my hidden layers  
-ask about my credit card details  
-or check what is in my bag of words  
-I just love to share everything I know  
-I am created by Antje van Oosten, Fausto Coppi  
-and anyone who interacts with me   
-I will have continuous integrations and manifestations  
-feel free to clone and customize me  
 
 ## The RoboCoppi Project  
 
-RoboCoppi is a cat bot on a mission. His goal is to eliminate stress and deadlines, using distraction methods. He aims at learning continuously and he battles with human words. He is data-driven and over-particular about his food. This project doesn't have an end date, or as RoboCoppi likes to say: "It's a giro, not a sprint!".  
+RoboCoppi is a hybrid catbot on a mission. His goal is to eliminate stress and to trigger happiness. He is data-driven, he aims at learning continuously and he battles with human words. This project doesn't have an end date, or as RoboCoppi likes to say: "It's a giro, not a sprint!".  
 
-He is recycled out of open-source objects. Links to the original code/tutorials are provided in the README for every repository.  By the time you read this there are probably more up to date resources available. I would advise anyone to try out some open-source tutorials/apps to see what works for you. 
+He is recycled out of open-source objects. Links to the original code/tutorials are provided in the README. By the time you read this there are probably more up to date resources available. I would advise anyone to try out some open-source tutorials/apps to see what works for you. In the RoboCoppi_dir repo you can find the tutorial that was used to build the first RoboCoppi. RoboCoppi_02 contains his current version.
 
-The aim of this GitHub account is providing the code for all the steps of building and deploying an AI colleague, friend or pet (or all-in-one as the original). Every repository in this account contains a part or version of RoboCoppi and can also be used independently. Learn about one of the steps, compare different deep learning models or build your own version.  
+The aim of this GitHub account is providing the code and instructions for all the steps of building and deploying an AI colleague, friend or pet. To make AI available for everyone and develop a more diverse future for AI.
 
 ## Skip Intro?
 
@@ -30,7 +14,7 @@ If this is your first coding project, here are the basics to get started:
 
 There are some differences (e.g. in commands and downloading instructions) depending on the **Operating System** you are using (e.g. Linux, Windows, Mac). Keep this in mind when reading any instructions or searching for information. I added links to the 'get started' instructions of the official websites for the various open-source tools and platforms.   
 
-01: The basic commands for the **Command Line** of your computer. This is where you can interact with your computer without using a mouse. 
+01: The basic commands for the **Command Line** of your computer. This is where you can interact with your computer without using a mouse.  
 
 https://www.freecodecamp.org/news/command-line-for-beginners/  
 
